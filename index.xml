@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Digital Multimedia</title><link>https://javieraespinosa.github.io/digital-multimedia/</link><atom:link href="https://javieraespinosa.github.io/digital-multimedia/index.xml" rel="self" type="application/rss+xml"/><description>Digital Multimedia</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><image><url>https://javieraespinosa.github.io/digital-multimedia/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url><title>Digital Multimedia</title><link>https://javieraespinosa.github.io/digital-multimedia/</link></image><item><title>Instructions</title><link>https://javieraespinosa.github.io/digital-multimedia/code-instructions/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://javieraespinosa.github.io/digital-multimedia/code-instructions/</guid><description>&lt;h2 id="folder-content">Folder Content&lt;/h2>
+&lt;ul>
+&lt;li>index.html&lt;/li>
+&lt;li>myServer.js&lt;/li>
+&lt;li>myClient.js&lt;/li>
+&lt;/ul>
+&lt;h2 id="requirements">Requirements&lt;/h2>
+&lt;ul>
+&lt;li>CouchDB&lt;/li>
+&lt;li>Nodejs&lt;/li>
+&lt;li>Database called &lt;strong>deezer&lt;/strong> on CouchDB&lt;/li>
+&lt;/ul>
+&lt;h2 id="running-the-code"> Running the code&lt;/h2>
+&lt;p>Start the server :&lt;/p>
+&lt;p>&lt;code>$ node myServer.js&lt;/code>&lt;/p>
+&lt;p>Open the &lt;strong>index.html&lt;/strong> page using the port 3000:&lt;/p>
+&lt;p>&lt;code>http://localhost:3000/index.html&lt;/code>&lt;/p></description></item></channel></rss>
